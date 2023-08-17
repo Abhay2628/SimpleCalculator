@@ -10,5 +10,3 @@
 - Calculate equations with PI (π) value
 - Auto save last answer
 - Offline support ( *just visit the calculator once online & then you can visit this offline* )
-
-### [Explore Calculator](https://github.com/Abhay2628/SimpleCalculator/)
